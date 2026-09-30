@@ -290,13 +290,6 @@ ul { list-style: none; padding: 0; margin: 0; }
   align-items: center;
   gap: 8px;
 }
-.hero-greeting::before {
-  content: '';
-  display: block;
-  width: 28px; height: 2px;
-  background: var(--accent);
-  border-radius: 2px;
-}
 
 .hero-name {
   font-family: 'Sora', sans-serif;
